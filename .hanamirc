@@ -1,0 +1,3 @@
+project=constant_problem
+test=rspec
+template=erb
